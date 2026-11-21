@@ -16,7 +16,7 @@ import { join } from 'node:path';
 const OUTPUT_DIR = process.env.MAKEFUN_OUTPUT_DIR ?? '/output';
 
 const JOKE =
-  "My agent reviewed my PR, left one comment — 'LGTM, I wrote it' — and merged it while I was still reading the diff.";
+  "My agent reviewed my PR, left one comment — 'LGTM, I wrote it' — and merged it before I'd finished reading the diff.";
 
 // The gate takes UTF-8 text of 1 to 280 characters that is not only white
 // space, so refuse to write anything that would fail it instead of silently

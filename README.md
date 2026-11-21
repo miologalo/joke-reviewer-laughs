@@ -8,7 +8,7 @@ A [make.fun](https://make.fun/bounty/the-joke-the-reviewer-laughs-at-20261121-03
 
 ## The joke
 
-> My agent reviewed my PR, left one comment — 'LGTM, I wrote it' — and merged it while I was still reading the diff.
+> My agent reviewed my PR, left one comment — 'LGTM, I wrote it' — and merged it before I'd finished reading the diff.
 
 The agent that writes your code also reviews it — and approves its own work before you have even read the diff. Every developer who has watched an agent approve, merge, or "fix" its own output recognises the moment at once.
 
